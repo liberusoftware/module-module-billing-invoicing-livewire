@@ -3,7 +3,7 @@
   "name": "module-billing-invoicing-livewire",
   "display_name": "Billing Invoicing Livewire",
   "description": "Livewire 4 adapter for Billing Invoicing.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Invoicing\\Livewire\\InvoicingLivewireServiceProvider",
   "requires": {
